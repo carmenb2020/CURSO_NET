@@ -5,3 +5,10 @@ D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Escuela_Idiomas\obj\Debug\Escuela_Idioma
 D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Escuela_Idiomas\obj\Debug\Escuela_Idiomas.csproj.CoreCompileInputs.cache
 D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Escuela_Idiomas\obj\Debug\Escuela_Idiomas.exe
 D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Escuela_Idiomas\obj\Debug\Escuela_Idiomas.pdb
+C:\Users\MAÑANA\Source\Repos\carmenb2020\CURSO_NET\Escuela_Idiomas\obj\Debug\Escuela_Idiomas.csproj.CoreCompileInputs.cache
+C:\Users\MAÑANA\Source\Repos\carmenb2020\CURSO_NET\Escuela_Idiomas\obj\Debug\Escuela_Idiomas.exe
+C:\Users\MAÑANA\Source\Repos\carmenb2020\CURSO_NET\Escuela_Idiomas\obj\Debug\Escuela_Idiomas.pdb
+C:\Users\MAÑANA\source\repos\carmenb2020\CURSO_NET\Escuela_Idiomas\bin\Debug\Escuela_Idiomas.exe.config
+C:\Users\MAÑANA\source\repos\carmenb2020\CURSO_NET\Escuela_Idiomas\bin\Debug\Escuela_Idiomas.xml
+C:\Users\MAÑANA\source\repos\carmenb2020\CURSO_NET\Escuela_Idiomas\bin\Debug\Escuela_Idiomas.exe
+C:\Users\MAÑANA\source\repos\carmenb2020\CURSO_NET\Escuela_Idiomas\bin\Debug\Escuela_Idiomas.pdb

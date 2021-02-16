@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Escuela_Idiomas</name>
+    </assembly>
+    <members>
+        <member name="F:Escuela_Idiomas.Estudiante.nombre">
+            <param>
+            Atributos de la clase
+            </param>
+        </member>
+        <member name="F:Escuela_Idiomas.Estudiante.curso">
+            <param>
+            Atributos de la clase
+            </param>
+        </member>
+        <member name="M:Escuela_Idiomas.Program.Main(System.String[])">
+            <summary>
+             Clase principal
+             </summary>
+        </member>
+    </members>
+</doc>

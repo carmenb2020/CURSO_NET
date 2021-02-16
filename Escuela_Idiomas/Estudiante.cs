@@ -8,13 +8,18 @@ namespace Escuela_Idiomas
 {
     public class Estudiante
     { 
+        //Atributos protected por si se van a usar varios proyectos , privated si es un solo proyecto
+        ///<param>
+        ///Atributos de la clase
+        ///</param>
         protected string nombre, curso;
-        protected int edad;
-        protected decimal nota;
-
+        private int edad;
+        private decimal nota;
+        //Métodos de propiedades para obtener los datos de los atributos
         public string Nombre { get => nombre; set => nombre = value; }//SetNombre
         public int Edad { get => edad; set => edad = value; }//SetEdad
         public decimal Nota { get => nota; set => nota = value; }//SetNota
+        //Método para leer y guardar los datos de los atributos
         public void Inicializar()
         {
             Console.Write("Ingrese el nombre: ");
@@ -30,6 +35,8 @@ namespace Escuela_Idiomas
             curso = AsignarCurso(nota);
             
         }
+        
+        //Método para asignar el curso correspondiente de acuerdo a la nota
         static string AsignarCurso(decimal nota)
         {
             string strCurso = "";
@@ -49,7 +56,6 @@ namespace Escuela_Idiomas
             }
             return strCurso;
         }
-
 
         public void Imprimir()
         {

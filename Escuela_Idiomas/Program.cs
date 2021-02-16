@@ -8,14 +8,23 @@ namespace Escuela_Idiomas
 {
     class Program
     {
+        ///<summary>
+        /// Clase principal
+        /// </summary>
          static void Main(string[] args)
          {
             Estudiante e1 = new Estudiante();
-        
-            e1.Inicializar();
-            e1.Imprimir();
             
+            ///<para>
+            ///Pedir datos
+            ///</para>
+            e1.Inicializar();
+            ///<para>
+            ///Mostrar datos
+            ///</para>
+            e1.Imprimir();
             Console.WriteLine("\n");
-        }
+         }
+ 
     }
 }
