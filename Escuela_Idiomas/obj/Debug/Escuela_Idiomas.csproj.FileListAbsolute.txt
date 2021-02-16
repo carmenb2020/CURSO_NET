@@ -1,0 +1,7 @@
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Escuela_Idiomas\bin\Debug\Escuela_Idiomas.exe.config
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Escuela_Idiomas\bin\Debug\Escuela_Idiomas.exe
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Escuela_Idiomas\bin\Debug\Escuela_Idiomas.pdb
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Escuela_Idiomas\obj\Debug\Escuela_Idiomas.csprojAssemblyReference.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Escuela_Idiomas\obj\Debug\Escuela_Idiomas.csproj.CoreCompileInputs.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Escuela_Idiomas\obj\Debug\Escuela_Idiomas.exe
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Escuela_Idiomas\obj\Debug\Escuela_Idiomas.pdb
