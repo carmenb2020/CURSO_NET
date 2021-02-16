@@ -8,3 +8,13 @@ C:\Users\MAÑANA\source\repos\carmenb2020\CURSO_NET\Nomina\obj\Debug\Nomina.cspr
 C:\Users\MAÑANA\source\repos\carmenb2020\CURSO_NET\Nomina\obj\Debug\Nomina.csproj.CoreCompileInputs.cache
 C:\Users\MAÑANA\source\repos\carmenb2020\CURSO_NET\Nomina\obj\Debug\Nomina.exe
 C:\Users\MAÑANA\source\repos\carmenb2020\CURSO_NET\Nomina\obj\Debug\Nomina.pdb
+C:\Users\luis_\Source\Repos\CURSO_NET\Nomina\bin\Debug\Nomina.exe.config
+C:\Users\luis_\Source\Repos\CURSO_NET\Nomina\bin\Debug\Nomina.exe
+C:\Users\luis_\Source\Repos\CURSO_NET\Nomina\bin\Debug\Nomina.pdb
+C:\Users\luis_\Source\Repos\CURSO_NET\Nomina\obj\Debug\Nomina.csprojAssemblyReference.cache
+C:\Users\luis_\Source\Repos\CURSO_NET\Nomina\obj\Debug\Nomina.Form1.resources
+C:\Users\luis_\Source\Repos\CURSO_NET\Nomina\obj\Debug\Nomina.Properties.Resources.resources
+C:\Users\luis_\Source\Repos\CURSO_NET\Nomina\obj\Debug\Nomina.csproj.GenerateResource.cache
+C:\Users\luis_\Source\Repos\CURSO_NET\Nomina\obj\Debug\Nomina.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Source\Repos\CURSO_NET\Nomina\obj\Debug\Nomina.exe
+C:\Users\luis_\Source\Repos\CURSO_NET\Nomina\obj\Debug\Nomina.pdb

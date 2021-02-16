@@ -1,0 +1,9 @@
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Proyecto_Formulario\bin\Debug\Proyecto_Formulario.exe.config
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Proyecto_Formulario\bin\Debug\Proyecto_Formulario.exe
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Proyecto_Formulario\bin\Debug\Proyecto_Formulario.pdb
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Proyecto_Formulario\obj\Debug\Proyecto_Formulario.Form1.resources
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Proyecto_Formulario\obj\Debug\Proyecto_Formulario.Properties.Resources.resources
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Proyecto_Formulario\obj\Debug\Proyecto_Formulario.csproj.GenerateResource.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Proyecto_Formulario\obj\Debug\Proyecto_Formulario.csproj.CoreCompileInputs.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Proyecto_Formulario\obj\Debug\Proyecto_Formulario.exe
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Proyecto_Formulario\obj\Debug\Proyecto_Formulario.pdb

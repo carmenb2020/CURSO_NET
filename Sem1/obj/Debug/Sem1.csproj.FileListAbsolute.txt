@@ -1,0 +1,14 @@
+C:\Users\MAÑANA\Documents\Yéssica Tarno Fonseca\MF0492_3\UF1844\Ejercicios\Cesar\Sem1\bin\Debug\Sem1.exe.config
+C:\Users\MAÑANA\Documents\Yéssica Tarno Fonseca\MF0492_3\UF1844\Ejercicios\Cesar\Sem1\bin\Debug\Sem1.exe
+C:\Users\MAÑANA\Documents\Yéssica Tarno Fonseca\MF0492_3\UF1844\Ejercicios\Cesar\Sem1\bin\Debug\Sem1.pdb
+C:\Users\MAÑANA\Documents\Yéssica Tarno Fonseca\MF0492_3\UF1844\Ejercicios\Cesar\Sem1\obj\Debug\Sem1.csprojAssemblyReference.cache
+C:\Users\MAÑANA\Documents\Yéssica Tarno Fonseca\MF0492_3\UF1844\Ejercicios\Cesar\Sem1\obj\Debug\Sem1.csproj.CoreCompileInputs.cache
+C:\Users\MAÑANA\Documents\Yéssica Tarno Fonseca\MF0492_3\UF1844\Ejercicios\Cesar\Sem1\obj\Debug\Sem1.exe
+C:\Users\MAÑANA\Documents\Yéssica Tarno Fonseca\MF0492_3\UF1844\Ejercicios\Cesar\Sem1\obj\Debug\Sem1.pdb
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Sem1\bin\Debug\Sem1.exe.config
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Sem1\bin\Debug\Sem1.exe
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Sem1\bin\Debug\Sem1.pdb
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Sem1\obj\Debug\Sem1.csprojAssemblyReference.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Sem1\obj\Debug\Sem1.csproj.CoreCompileInputs.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Sem1\obj\Debug\Sem1.exe
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Sem1\obj\Debug\Sem1.pdb

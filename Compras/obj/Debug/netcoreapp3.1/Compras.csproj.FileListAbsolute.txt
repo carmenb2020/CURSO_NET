@@ -1,0 +1,15 @@
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Compras\bin\Debug\netcoreapp3.1\Compras.exe
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Compras\bin\Debug\netcoreapp3.1\Compras.deps.json
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Compras\bin\Debug\netcoreapp3.1\Compras.runtimeconfig.json
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Compras\bin\Debug\netcoreapp3.1\Compras.runtimeconfig.dev.json
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Compras\bin\Debug\netcoreapp3.1\Compras.dll
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Compras\bin\Debug\netcoreapp3.1\Compras.pdb
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Compras\obj\Debug\netcoreapp3.1\Compras.csprojAssemblyReference.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Compras\obj\Debug\netcoreapp3.1\Compras.Form1.resources
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Compras\obj\Debug\netcoreapp3.1\Compras.csproj.GenerateResource.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Compras\obj\Debug\netcoreapp3.1\Compras.AssemblyInfoInputs.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Compras\obj\Debug\netcoreapp3.1\Compras.AssemblyInfo.cs
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Compras\obj\Debug\netcoreapp3.1\Compras.csproj.CoreCompileInputs.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Compras\obj\Debug\netcoreapp3.1\Compras.dll
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Compras\obj\Debug\netcoreapp3.1\Compras.pdb
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Compras\obj\Debug\netcoreapp3.1\Compras.genruntimeconfig.cache

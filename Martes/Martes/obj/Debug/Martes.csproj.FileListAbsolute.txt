@@ -1,0 +1,7 @@
+C:\Users\MAÑANA\source\repos\Martes\Martes\bin\Debug\Martes.exe.config
+C:\Users\MAÑANA\source\repos\Martes\Martes\bin\Debug\Martes.exe
+C:\Users\MAÑANA\source\repos\Martes\Martes\bin\Debug\Martes.pdb
+C:\Users\MAÑANA\source\repos\Martes\Martes\obj\Debug\Martes.csprojAssemblyReference.cache
+C:\Users\MAÑANA\source\repos\Martes\Martes\obj\Debug\Martes.csproj.CoreCompileInputs.cache
+C:\Users\MAÑANA\source\repos\Martes\Martes\obj\Debug\Martes.exe
+C:\Users\MAÑANA\source\repos\Martes\Martes\obj\Debug\Martes.pdb

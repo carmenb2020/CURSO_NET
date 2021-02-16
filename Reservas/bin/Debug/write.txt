@@ -1,0 +1,3 @@
+100,hfashfa,GHDHGVD,Reserva,lunes, 15 de febrero de 2021,jueves, 18 de febrero de 2021,domingo, 21 de febrero de 2021,5000BHSGGYADVgdavfbaghfvb,Aceptada
+105,hfashfa_HGSUDGV,GHDHGVDjfajfb,Booking,lunes, 15 de febrero de 2021,miércoles, 24 de febrero de 2021,miércoles, 3 de marzo de 2021,8200aghfvbHGSYUSGF,Rechazada
+,,,,,,,,

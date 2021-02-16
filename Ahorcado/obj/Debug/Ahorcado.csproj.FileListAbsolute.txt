@@ -1,0 +1,9 @@
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Ahorcado\bin\Debug\Ahorcado.exe.config
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Ahorcado\bin\Debug\Ahorcado.exe
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Ahorcado\bin\Debug\Ahorcado.pdb
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Ahorcado\obj\Debug\Ahorcado.Ahorcado.resources
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Ahorcado\obj\Debug\Ahorcado.exe
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Ahorcado\obj\Debug\Ahorcado.pdb

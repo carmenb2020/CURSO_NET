@@ -1,0 +1,11 @@
+C:\Users\MAÑANA\source\repos\Martes\Diagrama de Clases\bin\Debug\Diagrama de Clases.exe.config
+C:\Users\MAÑANA\source\repos\Martes\Diagrama de Clases\bin\Debug\Diagrama de Clases.exe
+C:\Users\MAÑANA\source\repos\Martes\Diagrama de Clases\bin\Debug\Diagrama de Clases.pdb
+C:\Users\MAÑANA\source\repos\Martes\Diagrama de Clases\obj\Debug\Diagrama de Clases.csprojAssemblyReference.cache
+C:\Users\MAÑANA\source\repos\Martes\Diagrama de Clases\obj\Debug\Diagrama de Clases.csproj.CoreCompileInputs.cache
+C:\Users\MAÑANA\source\repos\Martes\Diagrama de Clases\obj\Debug\Diagrama de Clases.exe
+C:\Users\MAÑANA\source\repos\Martes\Diagrama de Clases\obj\Debug\Diagrama de Clases.pdb
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Martes\Diagrama de Clases\obj\Debug\Diagrama de Clases.csprojAssemblyReference.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Martes\Diagrama de Clases\obj\Debug\Diagrama de Clases.csproj.CoreCompileInputs.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Martes\Diagrama de Clases\obj\Debug\Diagrama de Clases.exe
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Martes\Diagrama de Clases\obj\Debug\Diagrama de Clases.pdb

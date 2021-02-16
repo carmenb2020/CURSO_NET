@@ -1,0 +1,10 @@
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Reservas\bin\Debug\Reservas.exe.config
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Reservas\bin\Debug\Reservas.exe
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Reservas\bin\Debug\Reservas.pdb
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Reservas\obj\Debug\Reservas.csprojAssemblyReference.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Reservas\obj\Debug\Reservas.Reservas.resources
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Reservas\obj\Debug\Reservas.Properties.Resources.resources
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Reservas\obj\Debug\Reservas.csproj.GenerateResource.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Reservas\obj\Debug\Reservas.csproj.CoreCompileInputs.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Reservas\obj\Debug\Reservas.exe
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Reservas\obj\Debug\Reservas.pdb

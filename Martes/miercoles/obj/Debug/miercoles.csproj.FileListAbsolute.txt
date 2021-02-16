@@ -1,0 +1,7 @@
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Martes\miercoles\bin\Debug\miercoles.exe.config
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Martes\miercoles\bin\Debug\miercoles.exe
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Martes\miercoles\bin\Debug\miercoles.pdb
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Martes\miercoles\obj\Debug\miercoles.csprojAssemblyReference.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Martes\miercoles\obj\Debug\miercoles.csproj.CoreCompileInputs.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Martes\miercoles\obj\Debug\miercoles.exe
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\Martes\miercoles\obj\Debug\miercoles.pdb
