@@ -1,0 +1,10 @@
+C:\Users\MAÑANA\source\repos\carmenb2020\CURSO_NET\Cliente_Mayor\obj\Debug\Cliente_Mayor.csprojAssemblyReference.cache
+C:\Users\MAÑANA\source\repos\carmenb2020\CURSO_NET\Cliente_Mayor\obj\Debug\Cliente_Mayor.Form1.resources
+C:\Users\MAÑANA\source\repos\carmenb2020\CURSO_NET\Cliente_Mayor\obj\Debug\Cliente_Mayor.Properties.Resources.resources
+C:\Users\MAÑANA\source\repos\carmenb2020\CURSO_NET\Cliente_Mayor\obj\Debug\Cliente_Mayor.csproj.GenerateResource.cache
+C:\Users\MAÑANA\source\repos\carmenb2020\CURSO_NET\Cliente_Mayor\obj\Debug\Cliente_Mayor.csproj.CoreCompileInputs.cache
+C:\Users\MAÑANA\source\repos\carmenb2020\CURSO_NET\Cliente_Mayor\bin\Debug\Cliente_Mayor.exe.config
+C:\Users\MAÑANA\source\repos\carmenb2020\CURSO_NET\Cliente_Mayor\bin\Debug\Cliente_Mayor.exe
+C:\Users\MAÑANA\source\repos\carmenb2020\CURSO_NET\Cliente_Mayor\bin\Debug\Cliente_Mayor.pdb
+C:\Users\MAÑANA\source\repos\carmenb2020\CURSO_NET\Cliente_Mayor\obj\Debug\Cliente_Mayor.exe
+C:\Users\MAÑANA\source\repos\carmenb2020\CURSO_NET\Cliente_Mayor\obj\Debug\Cliente_Mayor.pdb
