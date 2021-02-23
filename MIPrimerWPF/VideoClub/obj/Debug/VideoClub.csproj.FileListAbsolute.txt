@@ -1,0 +1,30 @@
+C:\Users\MAÑANA\source\repos\CURSO_NET\MIPrimerWPF\VideoClub\bin\Debug\VideoClub.exe.config
+C:\Users\MAÑANA\source\repos\CURSO_NET\MIPrimerWPF\VideoClub\bin\Debug\VideoClub.exe
+C:\Users\MAÑANA\source\repos\CURSO_NET\MIPrimerWPF\VideoClub\bin\Debug\VideoClub.pdb
+C:\Users\MAÑANA\source\repos\CURSO_NET\MIPrimerWPF\VideoClub\obj\Debug\VideoClub.csprojAssemblyReference.cache
+C:\Users\MAÑANA\source\repos\CURSO_NET\MIPrimerWPF\VideoClub\obj\Debug\MainWindow.g.cs
+C:\Users\MAÑANA\source\repos\CURSO_NET\MIPrimerWPF\VideoClub\obj\Debug\App.g.cs
+C:\Users\MAÑANA\source\repos\CURSO_NET\MIPrimerWPF\VideoClub\obj\Debug\VideoClub_MarkupCompile.cache
+C:\Users\MAÑANA\source\repos\CURSO_NET\MIPrimerWPF\VideoClub\obj\Debug\VideoClub_MarkupCompile.lref
+C:\Users\MAÑANA\source\repos\CURSO_NET\MIPrimerWPF\VideoClub\obj\Debug\MainWindow.baml
+C:\Users\MAÑANA\source\repos\CURSO_NET\MIPrimerWPF\VideoClub\obj\Debug\VideoClub.g.resources
+C:\Users\MAÑANA\source\repos\CURSO_NET\MIPrimerWPF\VideoClub\obj\Debug\VideoClub.Properties.Resources.resources
+C:\Users\MAÑANA\source\repos\CURSO_NET\MIPrimerWPF\VideoClub\obj\Debug\VideoClub.csproj.GenerateResource.cache
+C:\Users\MAÑANA\source\repos\CURSO_NET\MIPrimerWPF\VideoClub\obj\Debug\VideoClub.csproj.CoreCompileInputs.cache
+C:\Users\MAÑANA\source\repos\CURSO_NET\MIPrimerWPF\VideoClub\obj\Debug\VideoClub.exe
+C:\Users\MAÑANA\source\repos\CURSO_NET\MIPrimerWPF\VideoClub\obj\Debug\VideoClub.pdb
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\VideoClub\bin\Debug\VideoClub.exe.config
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\VideoClub\bin\Debug\VideoClub.exe
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\VideoClub\bin\Debug\VideoClub.pdb
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\VideoClub\obj\Debug\VideoClub.csprojAssemblyReference.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\VideoClub\obj\Debug\MainWindow.g.cs
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\VideoClub\obj\Debug\App.g.cs
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\VideoClub\obj\Debug\VideoClub_MarkupCompile.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\VideoClub\obj\Debug\VideoClub_MarkupCompile.lref
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\VideoClub\obj\Debug\MainWindow.baml
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\VideoClub\obj\Debug\VideoClub.g.resources
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\VideoClub\obj\Debug\VideoClub.Properties.Resources.resources
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\VideoClub\obj\Debug\VideoClub.csproj.GenerateResource.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\VideoClub\obj\Debug\VideoClub.csproj.CoreCompileInputs.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\VideoClub\obj\Debug\VideoClub.exe
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\VideoClub\obj\Debug\VideoClub.pdb
