@@ -15,7 +15,7 @@ namespace VideoClub
         /// Atributos
         /// </summary>
         private string _strMAutor;
-        private string _strMISBN;
+        private string _strMIsbn;
         /// <summary>
         /// Propiedades
         /// </summary>
@@ -24,20 +24,20 @@ namespace VideoClub
         /// <param name="Precio"></param>
         /// <param name="Autor"></param>
         /// <param name="ISBN"></param>
-        public Libro(string Codigo, string Descripcion, double Precio, string Autor, string ISBN): base(Codigo, Descripcion, Precio)
+        public Libro(string Codigo,double Precio, string Descripcion, string Autor, string ISBN): base(Codigo, Precio, Descripcion)
         {
             _strMAutor = Autor;
-            _strMISBN = ISBN;
+            _strMIsbn = ISBN;
         }
-        public string strMAutor
+        public string MAutor
         {
             get { return _strMAutor; }
             set { _strMAutor = value; }
         }
-        public string strMISBN
+        public string MISBN
         {
-            get { return _strMISBN; }
-            set { _strMISBN = value; }
+            get { return _strMIsbn; }
+            set { _strMIsbn = value; }
         }
     }
 }

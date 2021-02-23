@@ -5,54 +5,54 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:VideoClub"
         mc:Ignorable="d"
-        Title="FORMULARIO DE PRODUCTOS" Height="750" Width="1500">
-    <Grid Background="DarkCyan" Margin="0,0,10,10">
-        <DockPanel Margin="10,10,9.6,609.8">
+        Title="FORMULARIO DE PRODUCTOS" Height="700" Width="1300">
+    <Grid Background="DarkCyan" Margin="0,0,2,-3">
+        <DockPanel Margin="10,10,10,548">
             <Label x:Name="txtTitulo" Foreground="White" FontSize="28" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="0,0,0,0" FontFamily="Showcard Gothic" Width="1187">VIDEOCLUB MADISON</Label>
         </DockPanel>
-        <DockPanel Margin="25,124,698.6,369.8" Background="Coral">
-            <WrapPanel Margin="15,28,0,0" Width="693" VerticalAlignment="Top" Height="173">
-                <Label Margin="0,0,0,35" Width="81" Background="DarkCyan" FontFamily="Showcard Gothic" FontSize="16">Código</Label>
-                <TextBox Margin="10,0,0,35" Width="101" Name="txtCodigo" AutomationProperties.IsRequiredForForm="True"></TextBox>
-                <Label Margin="10,0,0,35" Width="76" Background="DarkCyan" FontFamily="Showcard Gothic" FontSize="16">Precio</Label>
-                <TextBox Margin="10,0,0,35" Width="127" Name="txtPrecio"></TextBox>
-                <DockPanel VerticalAlignment="Top" Width="688" Height="119">
-                    <Label Margin="0,28,0,63.6" Background="DarkCyan" FontFamily="Showcard Gothic" FontSize="16" Width="115" Height="38">Descripción</Label>
-                    <TextBox Margin="10,8,0,10.2"  Width="295" Name="txtDescripcion"/>
-                    <StackPanel Orientation="Vertical" Margin="10,28,0,10.2" Width="150">
-                        <RadioButton Height="27" Margin="10,0" FontFamily="Showcard Gothic" FontSize="16" Name="rbCD" Checked="AsignarValor">CompactDisk</RadioButton>
-                        <RadioButton Height="27" Margin="10,0" FontFamily="Showcard Gothic" FontSize="16" Checked="AsignarValor">Libro</RadioButton>
+        <DockPanel Margin="25,124,711,339" Background="Coral">
+            <WrapPanel Margin="5,28,0,0" Width="516" VerticalAlignment="Top" Height="124">
+                <Label Margin="0,0,0,35" Width="67" Background="DarkCyan" FontFamily="Showcard Gothic" FontSize="12">Código</Label>
+                <TextBox Margin="10,0,0,35" Width="87" Name="txtCodigo" AutomationProperties.IsRequiredForForm="True" FontSize="16"></TextBox>
+                <Label Margin="10,0,0,35" Width="60" Background="DarkCyan" FontFamily="Showcard Gothic" FontSize="12">Precio</Label>
+                <TextBox Margin="10,0,0,35" Width="108" Name="txtPrecio" FontSize="18"></TextBox>
+                <DockPanel Margin="5,0,0,0" VerticalAlignment="Top" Width="511" Height="65">
+                    <Label Margin="0,19,0,23" Background="DarkCyan" FontFamily="Showcard Gothic" FontSize="12" Width="98">Descripción</Label>
+                    <TextBox Margin="10,8,0,10"  Width="207" Name="txtDescripcion"/>
+                    <StackPanel Orientation="Vertical" Margin="0,19,0,10" Width="179">
+                        <RadioButton Height="21" Margin="10,0,21,0" FontFamily="Showcard Gothic" FontSize="12" Name="rbCD" Checked="AsignarValor" Width="154">CompactDisc</RadioButton>
+                        <RadioButton Height="28" Margin="10,0,75,0" FontFamily="Showcard Gothic" FontSize="12" Name="rbLibro" Checked="AsignarValor">Libro</RadioButton>
                     </StackPanel>
                 </DockPanel>
             </WrapPanel>
         </DockPanel>
-        <WrapPanel Margin="828,124,344.6,369.8" Background="MediumAquamarine">
-            <Label Width="220" Margin="15,10,0,0" FontFamily="Showcard Gothic" FontSize="18" Foreground="White" HorizontalContentAlignment="Left" Height="38">Artista</Label>
-            <TextBox Height="42" Margin="15,0,0,0" Width="282" Name="txtArtista"></TextBox>
-            <Label Width="220" Margin="15,10,0,0" FontFamily="Showcard Gothic" FontSize="18" Foreground="White" HorizontalContentAlignment="Left" Height="38">Disco</Label>
-            <TextBox Height="42" Margin="15,0,0,0" Width="284" Name="txtDisco"></TextBox>
-        </WrapPanel>
-        <WrapPanel Margin="1170,124,31.6,369.8" Background="MediumAquamarine">
-            <Label Width="220" Margin="15,10,0,0" FontFamily="Showcard Gothic" FontSize="18" Foreground="White" HorizontalContentAlignment="Left" Height="38">Autor</Label>
-            <TextBox Height="42" Margin="15,0,0,0" Width="252" Name="txtAutor"></TextBox>
-            <Label Width="220" Margin="15,10,0,0" FontFamily="Showcard Gothic" FontSize="18" Foreground="White" HorizontalContentAlignment="Left" Height="38">ISBN</Label>
-            <TextBox Height="42" Margin="15,0,0,0" Width="207" Name="txtISBN"></TextBox>
-        </WrapPanel>
-        <DockPanel Margin="25,396,31.6,26.8">
-            <ListView FontSize="16" Name="lvDatos" MinHeight="40" HorizontalAlignment="Stretch" Margin="0,0,0,0" Height="278" VerticalAlignment="Top" Width="796">
+        <StackPanel Margin="638,124,359,339" Background="MediumAquamarine">
+            <Label Margin="34,10,50,0" FontFamily="Showcard Gothic" FontSize="12" Foreground="White" HorizontalContentAlignment="Left" Height="38">Artista</Label>
+            <TextBox Height="25" Margin="34,0,50,0" Name="txtArtista" FontSize="12"/>
+            <Label Margin="34,10,50,0" FontFamily="Showcard Gothic" FontSize="12" Foreground="White" HorizontalContentAlignment="Left" Height="38">Disco</Label>
+            <TextBox Height="27" Margin="32,0,50,0" Name="txtDisco" FontSize="12"/>
+        </StackPanel>
+        <StackPanel Margin="949,124,102,339" Background="MediumAquamarine">
+            <Label Margin="35,10,51,0" FontFamily="Showcard Gothic" FontSize="12" Foreground="White" HorizontalContentAlignment="Left" Height="38">Autor</Label>
+            <TextBox Height="27" Margin="35,0,10,0" Name="txtAutor"/>
+            <Label Margin="35,10,81,0" FontFamily="Showcard Gothic" FontSize="12" Foreground="White" HorizontalContentAlignment="Left" Height="38" Content="ISBN"/>
+            <TextBox Height="25" Margin="35,0,110,0" Name="txtISBN"/>
+        </StackPanel>
+        <DockPanel Margin="25,366,32,42">
+            <ListView FontSize="16" Name="lvDatos" MinHeight="40" HorizontalAlignment="Stretch" Margin="0,0,0,0" Height="216" VerticalAlignment="Top" Width="756">
                 <ListView.View>
                     <GridView AllowsColumnReorder="True">
                         <GridViewColumn Header="CODIGO" DisplayMemberBinding="{Binding Codigo}" Width="150"/>
                         <GridViewColumn Header="PRECIO" DisplayMemberBinding="{Binding Precio}" Width="80"/>
                         <GridViewColumn Header="DESCRIPCION" DisplayMemberBinding="{Binding Descripcion}" Width="180"/>
-                        <GridViewColumn Header="AUTOR/ARTISTA" DisplayMemberBinding="{Binding Autor_Artista}" Width="120"/>
-                        <GridViewColumn Header="LIBRO/COMPACT" DisplayMemberBinding="{Binding Libro_Compact}" Width="120"/>
+                        <GridViewColumn Header="AUTOR/ARTISTA" DisplayMemberBinding="{Binding Autor_Artista}" Width="140"/>
+                        <GridViewColumn Header="LIBRO/COMPACT" DisplayMemberBinding="{Binding Libro_Compact}" Width="140"/>
                     </GridView>
                 </ListView.View>
             </ListView>
-            <WrapPanel Margin="0,10,0,144.8" Width="216">
-                <Button Margin="0,0,0,0" Width="218" Name="btnAnadir"  FontFamily="Showcard Gothic" FontSize="20" Height="52" Click="btnAnadir_Click" >Añadir</Button>
-                <Button Margin="0,30,0,0"  Name="btnSalir"  FontFamily="Showcard Gothic" FontSize="20" Width="218" Height="52" Click="btnSalir_Click" >Salir</Button>
+            <WrapPanel Margin="0,10,0,157" Width="142">
+                <Button Margin="0,0,0,0" Width="143" Name="btnAnadir"  FontFamily="Showcard Gothic" FontSize="14" Height="32" Click="btnAnadir_Click" >Añadir</Button>
+                <Button Margin="0,30,0,0"  Name="btnSalir"  FontFamily="Showcard Gothic" FontSize="14" Width="143" Height="29" Click="btnSalir_Click" >Salir</Button>
             </WrapPanel>
         </DockPanel>
     </Grid>

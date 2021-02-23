@@ -28,8 +28,7 @@ namespace ABM_Viajes
             dtmFechaSalida.SelectedDate = DateTime.Today;
             dtmFechaLlegada.SelectedDate = DateTime.Today;
         }
-
-        
+                
         private void ClearTextBoxes(DependencyObject parentDependencyObject)
         {
             int visualChildrenCount = VisualTreeHelper.GetChildrenCount(parentDependencyObject);

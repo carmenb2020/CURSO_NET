@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABM_Viajes", "ABM_Viajes\AB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Venta_Artículos", "Venta_Artículos\Venta_Artículos.csproj", "{47C01D62-A620-4663-98B8-CC1B34132002}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoClub", "D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\VideoClub\VideoClub.csproj", "{C5F743D9-8993-4E26-B262-B01FF20F75FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoClub", "VideoClub\VideoClub.csproj", "{C5F743D9-8993-4E26-B262-B01FF20F75FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
