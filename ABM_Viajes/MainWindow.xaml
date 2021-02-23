@@ -1,0 +1,67 @@
+﻿<Window x:Class="ABM_Viajes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ABM_Viajes"
+        mc:Ignorable="d"
+        Title="ABM Viajes" Height="450" Width="800" FontSize="14"
+        Background="LightBlue"
+        Icon="D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\world_travel_icon_134812.ico"
+        WindowState="Normal"
+        WindowStyle="ThreeDBorderWindow"
+        ShowInTaskbar="True"
+        >
+    <Grid xmlns:ans="http://schemas.microsoft.com/netfx/2009/xaml/presentation">
+        <WrapPanel Margin="27,10,642,341">
+            <ans:TextBlock Margin="15,5,0,0" FontSize="14">Empresa:</ans:TextBlock>
+            <ComboBox Name="cbEmpresa" Margin="15,5,0,0" Background="LightGray" Width="101" Height="32" HorizontalAlignment="Left" VerticalAlignment="Center" IsEditable="True">
+                <ComboBoxItem Name="cb1" Background="LightGray" Content="Avianca" IsSelected="True"/>
+                <ComboBoxItem Name="cb2" Background="LightGray" Content="American Airlane"/>
+                <ComboBoxItem Name="cb3" Background="LightGray" Content="British Air"/>
+            </ComboBox>
+        </WrapPanel>
+        <WrapPanel  Margin="27,75,361,224">
+            <ans:TextBlock Margin="15,5,0,0" FontSize="14">Fecha de Salida:</ans:TextBlock>
+            <ans:TextBlock Margin="102,5,0,0"  FontSize="14">Fecha de Llegada:</ans:TextBlock>
+            <ans:DatePicker Margin="15,3,0,0" Name="dtmFechaSalida" SelectedDateFormat="Short"/>
+            <ans:DatePicker Margin="40,3,0,0" Name="dtmFechaLlegada" SelectedDateFormat="Short"/>
+            <ans:TextBlock Margin="16,5,0,0" FontSize="14">Lugar de Salida:</ans:TextBlock>
+            <ans:TextBlock Margin="105,5,0,0"  FontSize="14">Lugar de Llegada:</ans:TextBlock>
+            <ComboBox Name="cbLugarSalida" Margin="16,3,0,0" Background="LightGray" Width="101" Height="26" HorizontalAlignment="Left" VerticalAlignment="Center" IsEditable="True">
+                <ComboBoxItem x:Name="cb4" Background="LightGray" Content="Londres" IsSelected="True"/>
+                <ComboBoxItem x:Name="cb5" Background="LightGray" Content="Bogotá"/>
+                <ComboBoxItem x:Name="cb6" Background="LightGray" Content="Miami"/>
+            </ComboBox>
+            <ComboBox Name="cbLugarLlegada" Margin="103,3,0,0" Background="LightGray" Width="101" Height="26" HorizontalAlignment="Left" VerticalAlignment="Center" IsEditable="True">
+                <ComboBoxItem Name="cb7" Background="LightGray" Content="Londres" IsSelected="True"/>
+                <ComboBoxItem Name="cb8" Background="LightGray" Content="Bogotá"/>
+                <ComboBoxItem Name="cb9" Background="LightGray" Content="Miami"/>
+            </ComboBox>
+        </WrapPanel>
+        <WrapPanel Margin="38,196,552,92">
+            <GroupBox Margin="5,0,0,0" Header="Cantidad de personas" BorderBrush="AliceBlue" Width="180" Height="113">
+                <ans:StackPanel>
+                    <ans:RadioButton Margin="5,2,0,0" Name="radio1" Content="1 Persona"/>
+                    <ans:RadioButton Margin="5,2,0,0" Name="radio2" Content="2 Personas"/>
+                    <ans:RadioButton Margin="5,2,0,0" Name="radio3" Content="3 Personas"/>
+                    <ans:RadioButton Margin="5,2,0,0" Name="radio4" Content="4 Personas"/>
+                </ans:StackPanel>
+            </GroupBox>
+        </WrapPanel>
+        <WrapPanel Margin="245,197,211,92">
+            <GroupBox Margin="5,0,0,0" Header="Datos de persona responsable" BorderBrush="AliceBlue"  Width="315" Height="110">
+                <ItemsControl Margin="5,0,12,0" Height="87" VerticalAlignment="Top">
+                    <TextBlock>Nombre:</TextBlock>
+                    <ans:TextBox Margin="0,0,0,0" Name="txtNombre" Background="LightGray"/>
+                    <TextBlock  Margin="0,2,0,0" >Correo Electrónico::</TextBlock>
+                    <ans:TextBox Margin="0,0,0,0" Name="txtCorreo" Background="LightGray"/>
+                </ItemsControl>
+            </GroupBox>
+        </WrapPanel>
+        <ans:DockPanel Margin="84,332,267,46" >
+            <Button Content="Cancelar" Name="btnCancelar" Width="200" HorizontalAlignment="Left" VerticalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnCancelar_Click"/>
+            <Button Content="Aceptar" Name="btnAceptar" Width="200" HorizontalAlignment="Right" VerticalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnAceptar_Click"/>
+        </ans:DockPanel>
+    </Grid>
+</Window>

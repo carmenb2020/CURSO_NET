@@ -13,18 +13,17 @@ C:\Users\MAÑANA\source\repos\carmenb2020\CURSO_NET\MIPrimerWPF\MIPrimerWPF\obj\
 C:\Users\MAÑANA\source\repos\carmenb2020\CURSO_NET\MIPrimerWPF\MIPrimerWPF\obj\Debug\MIPrimerWPF.csproj.CoreCompileInputs.cache
 C:\Users\MAÑANA\source\repos\carmenb2020\CURSO_NET\MIPrimerWPF\MIPrimerWPF\obj\Debug\MIPrimerWPF.exe
 C:\Users\MAÑANA\source\repos\carmenb2020\CURSO_NET\MIPrimerWPF\MIPrimerWPF\obj\Debug\MIPrimerWPF.pdb
-C:\Users\luis_\source\repos\CURSO_NET\MIPrimerWPF\MIPrimerWPF\bin\Debug\MIPrimerWPF.exe.config
-C:\Users\luis_\source\repos\CURSO_NET\MIPrimerWPF\MIPrimerWPF\bin\Debug\MIPrimerWPF.exe
-C:\Users\luis_\source\repos\CURSO_NET\MIPrimerWPF\MIPrimerWPF\bin\Debug\MIPrimerWPF.pdb
-C:\Users\luis_\source\repos\CURSO_NET\MIPrimerWPF\MIPrimerWPF\obj\Debug\MIPrimerWPF.csprojAssemblyReference.cache
-C:\Users\luis_\source\repos\CURSO_NET\MIPrimerWPF\MIPrimerWPF\obj\Debug\MainWindow.g.cs
-C:\Users\luis_\source\repos\CURSO_NET\MIPrimerWPF\MIPrimerWPF\obj\Debug\App.g.cs
-C:\Users\luis_\source\repos\CURSO_NET\MIPrimerWPF\MIPrimerWPF\obj\Debug\MIPrimerWPF_MarkupCompile.cache
-C:\Users\luis_\source\repos\CURSO_NET\MIPrimerWPF\MIPrimerWPF\obj\Debug\MIPrimerWPF_MarkupCompile.lref
-C:\Users\luis_\source\repos\CURSO_NET\MIPrimerWPF\MIPrimerWPF\obj\Debug\MainWindow.baml
-C:\Users\luis_\source\repos\CURSO_NET\MIPrimerWPF\MIPrimerWPF\obj\Debug\MIPrimerWPF.g.resources
-C:\Users\luis_\source\repos\CURSO_NET\MIPrimerWPF\MIPrimerWPF\obj\Debug\MIPrimerWPF.Properties.Resources.resources
-C:\Users\luis_\source\repos\CURSO_NET\MIPrimerWPF\MIPrimerWPF\obj\Debug\MIPrimerWPF.csproj.GenerateResource.cache
-C:\Users\luis_\source\repos\CURSO_NET\MIPrimerWPF\MIPrimerWPF\obj\Debug\MIPrimerWPF.csproj.CoreCompileInputs.cache
-C:\Users\luis_\source\repos\CURSO_NET\MIPrimerWPF\MIPrimerWPF\obj\Debug\MIPrimerWPF.exe
-C:\Users\luis_\source\repos\CURSO_NET\MIPrimerWPF\MIPrimerWPF\obj\Debug\MIPrimerWPF.pdb
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\MIPrimerWPF\bin\Debug\MIPrimerWPF.exe.config
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\MIPrimerWPF\bin\Debug\MIPrimerWPF.exe
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\MIPrimerWPF\bin\Debug\MIPrimerWPF.pdb
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\MIPrimerWPF\obj\Debug\MainWindow.g.cs
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\MIPrimerWPF\obj\Debug\App.g.cs
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\MIPrimerWPF\obj\Debug\MIPrimerWPF_MarkupCompile.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\MIPrimerWPF\obj\Debug\MIPrimerWPF_MarkupCompile.lref
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\MIPrimerWPF\obj\Debug\MainWindow.baml
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\MIPrimerWPF\obj\Debug\MIPrimerWPF.g.resources
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\MIPrimerWPF\obj\Debug\MIPrimerWPF.Properties.Resources.resources
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\MIPrimerWPF\obj\Debug\MIPrimerWPF.csproj.GenerateResource.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\MIPrimerWPF\obj\Debug\MIPrimerWPF.csproj.CoreCompileInputs.cache
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\MIPrimerWPF\obj\Debug\MIPrimerWPF.exe
+D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\MIPrimerWPF\obj\Debug\MIPrimerWPF.pdb

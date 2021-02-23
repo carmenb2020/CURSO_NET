@@ -10,46 +10,50 @@
         Icon="D:\CARMEN BORJA\MODULO_2\POO\Ejercicios\MIPrimerWPF\world_travel_icon_134812.ico"
         WindowState="Normal"
         WindowStyle="ThreeDBorderWindow"
-        ShowInTaskbar="True"
+        ShowInTaskbar="True" WindowStartupLocation="CenterScreen" Cursor="Arrow"
         >
-    <Grid xmlns:ans="http://schemas.microsoft.com/netfx/2009/xaml/presentation">
-        <WrapPanel Margin="27,10,642,341">
+    <Grid x:Name="window" xmlns:ans="http://schemas.microsoft.com/netfx/2009/xaml/presentation">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="268*"/>
+            <RowDefinition Height="153*"/>
+        </Grid.RowDefinitions>
+        <WrapPanel Margin="27,10,594,188">
             <ans:TextBlock Margin="15,5,0,0" FontSize="14">Empresa:</ans:TextBlock>
-            <ComboBox Margin="15,5,0,0" Background="LightGray" Width="101" Height="32" HorizontalAlignment="Left" VerticalAlignment="Center" IsEditable="True">
-                <ComboBoxItem Name="cb1" Background="LightGray" Content="Chevallier" IsSelected="True"/>
-                <ComboBoxItem Name="cb2" Background="LightGray" Content="Servientrega"/>
-                <ComboBoxItem Name="cb3" Background="LightGray" Content="TCC"/>
+            <ComboBox Name="cbEmpresa" Margin="15,5,0,0" Background="LightGray" Width="145" Height="32" HorizontalAlignment="Left" VerticalAlignment="Center" IsEditable="True">
+                <ComboBoxItem Name="cb1" Background="LightGray" Content="Avianca" IsSelected="True"/>
+                <ComboBoxItem Name="cb2" Background="LightGray" Content="American Airline"/>
+                <ComboBoxItem Name="cb3" Background="LightGray" Content="British Air"/>
             </ComboBox>
         </WrapPanel>
-        <WrapPanel  Margin="27,75,361,224">
+        <WrapPanel  Margin="27,75,325,70.702">
             <ans:TextBlock Margin="15,5,0,0" FontSize="14">Fecha de Salida:</ans:TextBlock>
-            <ans:TextBlock Margin="102,5,0,0"  FontSize="14">Fecha de Llegada:</ans:TextBlock>
+            <ans:TextBlock Margin="120,5,0,0"  FontSize="14">Fecha de Llegada:</ans:TextBlock>
             <ans:DatePicker Margin="15,3,0,0" Name="dtmFechaSalida" SelectedDateFormat="Short"/>
             <ans:DatePicker Margin="40,3,0,0" Name="dtmFechaLlegada" SelectedDateFormat="Short"/>
             <ans:TextBlock Margin="16,5,0,0" FontSize="14">Lugar de Salida:</ans:TextBlock>
-            <ans:TextBlock Margin="105,5,0,0"  FontSize="14">Lugar de Llegada:</ans:TextBlock>
+            <ans:TextBlock Margin="120,5,0,0"  FontSize="14">Lugar de Llegada:</ans:TextBlock>
             <ComboBox Name="cbLugarSalida" Margin="16,3,0,0" Background="LightGray" Width="101" Height="26" HorizontalAlignment="Left" VerticalAlignment="Center" IsEditable="True">
                 <ComboBoxItem x:Name="cb4" Background="LightGray" Content="Londres" IsSelected="True"/>
                 <ComboBoxItem x:Name="cb5" Background="LightGray" Content="Bogotá"/>
                 <ComboBoxItem x:Name="cb6" Background="LightGray" Content="Miami"/>
             </ComboBox>
-            <ComboBox Name="cbLugarLlegada" Margin="103,3,0,0" Background="LightGray" Width="101" Height="26" HorizontalAlignment="Left" VerticalAlignment="Center" IsEditable="True">
+            <ComboBox Name="cbLugarLlegada" Margin="118,3,0,0" Background="LightGray" Width="101" Height="26" HorizontalAlignment="Left" VerticalAlignment="Center" IsEditable="True">
                 <ComboBoxItem Name="cb7" Background="LightGray" Content="Londres" IsSelected="True"/>
                 <ComboBoxItem Name="cb8" Background="LightGray" Content="Bogotá"/>
                 <ComboBoxItem Name="cb9" Background="LightGray" Content="Miami"/>
             </ComboBox>
         </WrapPanel>
-        <WrapPanel Margin="38,196,552,92">
+        <WrapPanel Margin="38,196,552,92" Grid.RowSpan="2">
             <GroupBox Margin="5,0,0,0" Header="Cantidad de personas" BorderBrush="AliceBlue" Width="180" Height="113">
-                <ItemsControl Name="radPersonas" Margin="5,5,0,0" Height="75" VerticalAlignment="Top">
-                    <ans:RadioButton Margin="5,2,0,0" GroupName="radPersonas" Name="rad1">1 Persona</ans:RadioButton>
-                    <ans:RadioButton Margin="5,2,0,0" GroupName="radPersonas" Name="rad2" >2 Personas</ans:RadioButton>
-                    <ans:RadioButton Margin="5,2,0,0" GroupName="radPersonas" Name="rad3" >3 Personas</ans:RadioButton>
-                    <ans:RadioButton Margin="5,2,0,0" GroupName="radPersonas" Name="rad4" >4 Personas</ans:RadioButton>
-                </ItemsControl>
+                <StackPanel>
+                    <RadioButton Name="rb1" Checked="AsignaValor">1 Persona</RadioButton>
+                    <RadioButton Name="rb2" Checked="AsignaValor">2 Personas</RadioButton>
+                    <RadioButton Name="rb3" Checked="AsignaValor">3 Personas</RadioButton>
+                    <RadioButton Name="rb4" Checked="AsignaValor">4 Personas</RadioButton>
+                </StackPanel>
             </GroupBox>
         </WrapPanel>
-        <WrapPanel Margin="245,197,211,92">
+        <WrapPanel Margin="245,197,211,92" Grid.RowSpan="2">
             <GroupBox Margin="5,0,0,0" Header="Datos de persona responsable" BorderBrush="AliceBlue"  Width="315" Height="110">
                 <ItemsControl Margin="5,0,12,0" Height="87" VerticalAlignment="Top">
                     <TextBlock>Nombre:</TextBlock>
@@ -59,9 +63,9 @@
                 </ItemsControl>
             </GroupBox>
         </WrapPanel>
-        <ans:DockPanel Margin="84,332,267,46" >
-            <Button Content="Cancelar" Name="btnCancelar" Width="200" HorizontalAlignment="Left" VerticalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnCancelar_Click"/>
-            <Button Content="Aceptar" Name="btnAceptar" Width="200" HorizontalAlignment="Right" VerticalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnAceptar_Click"/>
+        <ans:DockPanel Margin="84,64.298,267,46" Grid.Row="1" >
+            <Button Content="Cancelar" Name="btnCancelar" Width="200" HorizontalAlignment="Left" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnCancelar_Click"/>
+            <Button Content="Aceptar" Name="btnAceptar" Width="200" HorizontalAlignment="Right" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnAceptar_Click"/>
         </ans:DockPanel>
     </Grid>
 </Window>

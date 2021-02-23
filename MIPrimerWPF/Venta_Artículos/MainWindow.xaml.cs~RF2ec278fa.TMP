@@ -1,0 +1,70 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace Venta_Artículos
+{
+    /// <summary>
+    /// Lógica de interacción para MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
+            InitializeComponent();
+            dtmFecha.SelectedDate = DateTime.Today;
+
+        }
+        public void validarFecha(string Fecha)
+        {
+           if (Fecha == null)
+            {
+                MessageBox.Show("Debe ingresar la fecha");
+            }
+        }
+    
+        private void btnNuevo_Click(object sender, RoutedEventArgs e)
+        {
+            try { 
+            
+                if (dtmFecha.SelectedDate == null)
+                {
+                    dtmFecha.SelectedDate = DateTime.Today;
+                }
+                DateTime _dtmFecha = dtmFecha.SelectedDate.Value;
+                string _txtDescripcion = txtDescripcion.Text;
+                string _txtNombre = txtNombre.Text;
+                if (cbDescuento.SelectedItem != null)
+                {
+                      ComboBoxItem cmbItem = cbDescuento.SelectedItem as ComboBoxItem;
+                      string _txtDescuento = cmbItem.Content.ToString();
+                }else { MessageBox.Show("Debe ingresar el descuento"); }
+                string _txtIVA = txtIVA.Text;
+                validarTexto(_txtIVA);
+                string _txtCantidad = txtCantidad.Text;
+                validarTexto(_txtCantidad);
+                string _txtPrecioUni = txtPrecioUni.Text;
+                validarTexto(_txtPrecioUni);
+                string _txtPagado = txtPagado.Text;
+                validarTexto(_txtPagado);
+            }
+            catch { MessageBox.Show("Faltan datos por ingresar"); }
+        }
+
+        private void btSalir_Click(object sender, RoutedEventArgs e)
+        {
+            Application.Current.Shutdown();
+        }
+    }
+}
